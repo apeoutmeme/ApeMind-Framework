@@ -19,8 +19,10 @@ Install peer dependencies
     ```
 
 2. **Create your first agent dashboard**
+
+src/components/QuickStartDashboard.jsx
 ```
-jsx:src/components/QuickStartDashboard.jsx
+
 import React, { useState } from 'react';
 import { ApeMind, BasicAgent } from 'apemind-framework';
 import {
@@ -30,6 +32,7 @@ Card,
 Container,
 Typography
 } from '@mui/material';
+
 const QuickStartDashboard = () => {
 const [agentStatus, setAgentStatus] = useState('inactive');
 const deployBasicAgent = async () => {
@@ -39,6 +42,7 @@ const apemind = new ApeMind({
 network: 'devnet',
 agentType: 'basic'
 });
+
 // Deploy a basic agent
 const agent = await apemind.deployAgent({
 name: 'My First Agent',
@@ -52,6 +56,7 @@ setAgentStatus('active');
 console.error('Failed to deploy agent:', error);
 }
 };
+
 return (
 <Container maxWidth="sm">
 <Box sx={{ py: 4 }}>
@@ -77,15 +82,19 @@ Deploy Agent
 export default QuickStartDashboard;
 ```
 
+src/App.jsx
 3. **Set up your main App**
 ```
-jsx:src/App.jsx
+
 import { WalletProvider } from '@solana/wallet-adapter-react';
 import { WalletModalProvider } from '@solana/wallet-adapter-react-ui';
 import QuickStartDashboard from './components/QuickStartDashboard';
+
 // Required for wallet styling
 require('@solana/wallet-adapter-react-ui/styles.css');
+
 function App() {
+
 return (
 <WalletProvider wallets={[]} autoConnect>
 <WalletModalProvider>
@@ -94,12 +103,14 @@ return (
 </WalletProvider>
 );
 }
+
 export default App;
 ```
 
+src/config/agent.config.js
 ## Basic Agent Configuration
 ```
-javascript:src/config/agent.config.js
+
 export const agentConfig = {
 // Basic configuration
 basic: {
