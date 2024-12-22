@@ -7,8 +7,8 @@
 > Next-generation infrastructure for deploying AI agents on Solana
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID)](https://discord.gg/your-invite)
-[![Twitter Follow](https://img.shields.io/twitter/follow/apemind?style=social)](https://twitter.com/apemind)
+[![Discord](https://img.shields.io/discord/9tBWMyRZ)]([https://discord.gg/your-invite](https://discord.gg/9tBWMyRZ))
+[![Twitter Follow](https://img.shields.io/twitter/follow/apeoutmeme?style=social)](https://twitter.com/apeoutmeme)
 
 ## 🚀 Features
 
@@ -109,7 +109,7 @@ BSC_RPC_URL=https://bsc-dataseed.binance.org/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## 🙏 Acknowledgments
 
