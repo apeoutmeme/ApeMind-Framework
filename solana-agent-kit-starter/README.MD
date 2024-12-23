@@ -4,6 +4,11 @@
 Connect AI agents to Solana protocols.
 https://github.com/sendaifun/solana-agent-kit
 
+## What is the Solana Agent Kit Starter? 
+An easy way to get started with the Solana Agent Kit if you are integrating it into your project and want to optimize for the best chances to get started quickly with no depedency issues etc.
+
+This project is optimized to get install solana agent with no fuss/hassle!
+Just clone, install and run.
 
 ## Requirements
 - Node.js >= 23.1.0
