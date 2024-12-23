@@ -217,3 +217,17 @@ Send an SPL token airdrop to many recipients at low cost via ZK Compression.
 
 console.log("Hello from Solana Agent Kit!");
 ```
+
+## Demo 
+Deploying Test Tokens
+![Deploying Test Tokens](https://github.com/apeoutmeme/resources/blob/main/assets/Starter-Demo/Deploying-Test-Tokens.png?raw=true)
+
+Get Token Data
+![Get Token Data](https://github.com/apeoutmeme/resources/blob/main/assets/Starter-Demo/GetTokenData.png?raw=true)
+
+Test Token Data Tool
+![Test Token Data Tool](https://github.com/apeoutmeme/resources/blob/main/assets/Starter-Demo/GetTokenDataTest.png?raw=true)
+
+Get Domain Tool 
+![Get Domain Tool](https://github.com/apeoutmeme/resources/blob/main/assets/Starter-Demo/SolanaGetDomainTool.png?raw=true)
+
