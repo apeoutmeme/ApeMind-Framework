@@ -1,10 +1,10 @@
-# Solana Agent Kit - Quick Start Guide
+# Solana Agent Kit - QuikStart Project [PNMP]
 
 ## What is Solana Agent Kit?
 Connect AI agents to Solana protocols.
 https://github.com/sendaifun/solana-agent-kit
 
-## What is the Solana Agent Kit Starter? 
+## What is the Solana Agent Kit QuikStarter? 
 An easy way to get started with the Solana Agent Kit if you are integrating it into your project and want to optimize for the best chances to get started quickly with no depedency issues etc.
 
 This project is optimized to get install solana agent with no fuss/hassle!
