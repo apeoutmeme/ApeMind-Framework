@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## 🔗 Links
 
-- [Documentation](https://apeout.notion.site/Documentation-Apemind-16595c4b66bd80f7ac4eefaa66ba2825)
+- [Documentation](https://apeout.notion.site/ApeMind-Framework-Next-Gen-AI-Agent-Infrastructure-for-Solana-16595c4b66bd80f7ac4eefaa66ba2825)
 - [Website](https://apeout.fun/apemind)
 - [Discord](https://discord.com/invite/9tBWMyRZ)
 - [Twitter](https://twitter.com/apeoutmeme)
