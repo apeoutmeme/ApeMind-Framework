@@ -1,7 +1,7 @@
 # ApeMind Framework
 
 <p align="center">
-  <img src="assets/apemind-logo.png" alt="ApeMind Framework Logo" width="200"/>
+  <img src="https://github.com/apeoutmeme/resources/blob/main/assets/apeoutlogo.png?raw=true" alt="ApeMind Framework Logo" width="200"/>
 </p>
 
 > Next-generation infrastructure for deploying AI agents on Solana
@@ -120,4 +120,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 - Arcium
 
 ## 🔗 Links
-soon
+
+- [Documentation](https://apeout.notion.site/Documentation-Apemind-16595c4b66bd80f7ac4eefaa66ba2825)
+- [Website](https://apeout.fun/apemind)
+- [Discord](https://discord.com/invite/9tBWMyRZ)
+- [Twitter](https://twitter.com/apeoutmeme)
+
