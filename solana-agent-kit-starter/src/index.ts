@@ -4,7 +4,7 @@ import { SolanaAgentKit, createSolanaTools } from "solana-agent-kit";
 
 // Initialize with private key and optional RPC URL
 const agent = new SolanaAgentKit(
-  "47iVk68HWg4GQsjLCcK3bRU9vuZVpeQH7j4c2F6f8y4SWf7MyZHseUEgp2m79J3w3YMSq7Tafgcdsg7p9B6PgQMX",
+  "your-wallet-private-key",
   "https://api.mainnet-beta.solana.com",
   "your-openai-api-key"
 );
